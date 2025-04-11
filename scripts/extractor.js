@@ -1,0 +1,1 @@
+console.log("Ok desde extractor.js")
